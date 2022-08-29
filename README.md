@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=157FA9&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Muneeb+;%F0%9F%92%BB+A+Passionate+Full-Stack+Developer+;From+Karachi%2C+Pakistan+" alt="Typing SVG" /></a>
+<img align="right" alt="code" width="400" src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" alt="">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahad</h1> <h3 align="center">I'm a passionate Full Stack Developer from Pakistan.</h3> ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **HTML/CSS/JavaScript/React.js/Node,js/MongoDB.** 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
