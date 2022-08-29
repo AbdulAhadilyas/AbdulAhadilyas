@@ -1,4 +1,4 @@
-<img align="right" alt="code" width="400" src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" alt="">
+<img  alt="code" width="400" src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" alt="">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahad</h1> <h3 align="center">I'm a passionate Full Stack Developer from Pakistan.</h3> ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **HTML/CSS/JavaScript/React.js/Node,js/MongoDB.** 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
